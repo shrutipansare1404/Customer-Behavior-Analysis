@@ -215,7 +215,7 @@ Customer-Behavior-Analysis/
 ├── customer_analysis.sql
 ├── customer_shopping_behavior.csv
 └── README.md
-
+```
 ## 🎯 9. Key Skills Demonstrated
 
 - Data Cleaning & Preprocessing
