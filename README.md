@@ -130,7 +130,7 @@ The Power BI dashboard provides an interactive overview of retail customer behav
 Add your Power BI dashboard screenshot here:
 
 ```markdown
-![Power BI Dashboard](Images/Dashboard%20Screenshot.png)
+![Power BI Dashboard](Images/dashboard-screenshot.png)
 ```
 
 ## 💡 6. Results & Business Insights
