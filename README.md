@@ -1,5 +1,4 @@
-# Customer-Behavior-Analysis
-Data Analytics project showcasing customer behavior analysis using Python,SQL. Power BI
+
 # 🛍️ Retail Customer Behavior & Shopping Trends Analysis
 
 An end-to-end Data Analytics project using **Python, SQL, and Power BI** to analyze retail customer purchasing behavior, identify shopping trends, and generate actionable business insights.
@@ -106,16 +105,17 @@ The dataset contains customer shopping information, including:
 
 ## 📊 5. Power BI Dashboard
 
-The Power BI dashboard provides an interactive overview of retail customer behavior and shopping trends.
+The Power BI dashboard provides an interactive overview
+of retail customer behavior and shopping trends.
 
-**Key Performance Indicators (KPIs):**
+### Key Performance Indicators (KPIs)
 - Total Customers
 - Total Purchase Amount
 - Average Purchase Amount
 - Average Review Rating
 - Total Transactions
 
-**Dashboard Visualizations:**
+### Dashboard Visualizations
 - Sales by Product Category
 - Customer Distribution by Gender
 - Purchase Behavior by Age Group
@@ -124,10 +124,6 @@ The Power BI dashboard provides an interactive overview of retail customer behav
 - Subscription Status Analysis
 - Discount Usage Analysis
 - Customer Purchase Frequency
-
-**Dashboard Preview:**
-
-Add your Power BI dashboard screenshot here:
 
 ### Dashboard Preview
 
@@ -209,32 +205,16 @@ Open the project notebook and execute the cells.
 ## 📁 8. Project Folder Structure
 
 ```text
-Retail-Customer-Behavior-Analysis/
-│
-├── Dataset/
-│   ├── shopping_trends.csv
-│   └── cleaned_data.csv
-│
-├── Python/
-│   └── Retail_Analysis.ipynb
-│
-├── SQL/
-│   └── Retail_Analysis.sql
-│
-├── PowerBI/
-│   └── Retail_Dashboard.pbix
-│
-├── Reports/
-│   └── Project_Report.pdf
-│
-├── Presentation/
-│   └── Project_Presentation.pdf
+
+Customer-Behavior-Analysis/
 │
 ├── Images/
-│   └── dashboard_screenshot.png
+│   └── dashboard-screenshot.png
 │
+├── customer behaviour analysis .ipynb
+├── customer_analysis.sql
+├── customer_shopping_behavior.csv
 └── README.md
-```
 
 ## 🎯 9. Key Skills Demonstrated
 
